@@ -1,3 +1,11 @@
-D 'xtcce': Common Correlated Effects Estimation for Static/Dynamic Panels with Cross-Sectional Dependence Use xtcce With STATA 19
-F xtcce.ado
-F xtcce.sthlp
+D 'xtpunitcoint': Panel cointegration and stationarity tests with structural breaks and common factors Use xtpunitcoint With STATA 19
+F _xtpcointegboot_engine.ado
+F _xtpcointegwe_engine.ado
+F _xtpkpss_engine.ado
+F xtpcointegboot.ado
+F xtpcointegboot.sthlp
+F xtpcointegwe.ado
+F xtpcointegwe.sthlp
+F xtpkpss.ado
+F xtpkpss.sthlp
+F xtpunitcoint.hlp
