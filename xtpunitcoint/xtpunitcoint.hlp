@@ -1,0 +1,26 @@
+.-
+help for ^xtpunitcoint^
+.-
+
+Panel cointegration and stationarity tests with structural breaks and common factors
+----------------------
+
+Description
+-----------
+
+^xtpunitcoint^ Panel cointegration and stationarity tests with structural breaks and common factors.
+     
+Examples
+--------
+
+ . ^xtset xtset xtset_^
+ . ^xtpcointegwe xtpunitcoint xtpunitcoint_^
+ . ^xtpcointegboot xtpunitcoint xtpunitcoint_^
+ . ^xtpkpss xtpunitcoint^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah

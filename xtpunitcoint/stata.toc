@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p xtcce Common Correlated Effects Estimation for Static/Dynamic Panels with Cross-Sectional Dependence Use xtcce With STATA 19
