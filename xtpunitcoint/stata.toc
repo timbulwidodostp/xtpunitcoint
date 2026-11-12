@@ -2,4 +2,4 @@
 1
 2
 3
-p xtcce Common Correlated Effects Estimation for Static/Dynamic Panels with Cross-Sectional Dependence Use xtcce With STATA 19
+p xtpunitcoint Panel cointegration and stationarity tests with structural breaks and common factors Use xtpunitcoint With STATA 19
