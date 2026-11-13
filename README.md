@@ -1,6 +1,8 @@
 # xtpunitcoint
 Panel cointegration and stationarity tests with structural breaks and common factors Use xtpunitcoint With STATA 19
 
+https://www.youtube.com/watch?v=OZ2Dl--WCrQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
